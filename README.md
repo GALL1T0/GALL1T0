@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **JS,Java,Python,PhP,Spring**
+- 🌱 I’m currently learning **JS,Java,Python,PhP,Spring,Angular**
 
 - 👨‍💻 All of my projects are available at [still working on that!](still working on that!)
 
